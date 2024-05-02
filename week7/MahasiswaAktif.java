@@ -2,7 +2,7 @@ package week7;
 import week1.Mahasiswa;
 
 public class MahasiswaAktif extends Mahasiswa{
-    public string usia;
+    public String usia;
     public int semester;
 
     // constructor

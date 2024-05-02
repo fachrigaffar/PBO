@@ -27,7 +27,7 @@ public class Akademik{
             System.out.println("Masukkan IPK: ");
             ipk = inp.nextDouble();
 
-            mhs[i] = new Mahasiswa(nim,nama,ipk);
+            mhs[i] = new Mahasiswa(nim,nama);
         }
 
         for(int i=0; i<n; i++){
